@@ -10,3 +10,4 @@ for curdir, dirs, files in os.walk(spedir):
     print(dirs)
     for file in files:
         print(os.path.join(curdir, file))
+
