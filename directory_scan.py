@@ -2,6 +2,8 @@
 # -*- coding: UTF-8 -*-
 
 import os
+# import pandas
+
 
 spedir = 'E:\Downloads'
 
